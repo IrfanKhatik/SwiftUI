@@ -1,8 +1,7 @@
 # SwiftUI-2-CoreData-MVVM-URLSession-DataTaskPublisher
-> A ready-to-use SwiftUI Clean MVVM to use when creating a new project including Core Data, a generic type of data source for your ViewModels, a customizable ViewModelDataSource protocol and a standard App Configuration.
+> SwiftUI 2.0, CoreData, MVVM, URLSession-DataTaskPublisher project including Core Data, a data source for ViewModels and a standard App Configuration.
 
-
-This template is intended to reduce the amount of time it takes to create and setup a new project with SwiftUI. 
+This project is intended to reduce the amount of time it takes to create and setup a new project with SwiftUI.
 
 It includes a sample project that contains:
 * A clean MVVM Design Architecture (Model - View - ViewModel) with a subfolder for each category,
